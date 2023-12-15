@@ -7,5 +7,5 @@ J'aimerais devenir développeur dans le web ou alors dans le mobile. Pour le web
 
 
 # Parcours
-J'ai un baccalauréat général que j'ai obtenu dans le lycée Jean Giraudoux à Bellac en Haute-Vienne avec comme spécialité Mathématique/Physique-Chimie, de plus je possède la mention européenne suite à mes trois années d’anglais européen. En première j’ai abandonné la spécialité de science de l’ingénieur.
+J'ai un baccalauréat général que j'ai obtenu dans le lycée Jean Giraudoux à Bellac en Haute-Vienne avec comme spécialité Mathématique/Physique-Chimie, de plus je possède la mention européenne suite à mes trois années d’anglais européen. En première, j’ai abandonné la spécialité de science de l’ingénieur.
  
