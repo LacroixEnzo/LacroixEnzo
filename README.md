@@ -2,7 +2,7 @@
 Bonjour, Bonsoir
 
 
-Je m'appelle Enzo Lacroix et j'ai 20, je suis née en septembre 2003. Actuellement en 3ème année de BUT Informatique de Limoges.\
+Je m'appelle Enzo Lacroix et j'ai 21 ans, je suis née en septembre 2003. Actuellement en 3ème année de BUT Informatique de Limoges.\
 J'aimerais devenir développeur dans le web ou alors dans le mobile. Pour le web j'aimerais être full stack mais avec une préférence pour le front-end.
 
 
