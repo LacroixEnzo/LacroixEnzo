@@ -27,3 +27,9 @@ J'ai un baccalauréat général que j'ai obtenu dans le lycée Jean Giraudoux à
 * Rigoureux : Je suis rigoureux et assidu dans mon travail peu importe la tâche à accomplir
 * professionel : Ayant déjà travailler en entreprise, j'ai pu acquérir les codes du travail en entreprise
 * Communication : J'ai eu l'habitude de travailler en groupe grâce à ma formation, je suis donc à l'aise au sein même d'un groupe
+
+
+## Contact
+
+ * LikedIn : https://www.linkedin.com/in/enzo-lacroix/
+ * Mail : enzo.lacroix@etu.unilim.fr
