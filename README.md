@@ -26,6 +26,4 @@ J'ai un baccalauréat général que j'ai obtenu dans le lycée Jean Giraudoux à
 * professionel : Ayant déjà travailler en entreprise, j'ai pu acquérir les codes du travail en entreprise
 * Communication : J'ai eu l'habitude de travailler en groupe grâce à ma formation, je suis donc à l'aise au sein même d'un groupe
 
-# Compétences travaillées en BUT Informatique
 
-Vous pouvez retrouver ci-dessous la liste complète des compétences que j'ai pu travailler lors de ma formation du BUT Informatique du Limousin
