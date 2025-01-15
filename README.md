@@ -31,5 +31,5 @@ J'ai un baccalauréat général que j'ai obtenu dans le lycée Jean Giraudoux à
 
 ## Contact
 
- * LikedIn : https://www.linkedin.com/in/enzo-lacroix/
+ * Linkedin : https://www.linkedin.com/in/enzo-lacroix/
  * Mail : enzo.lacroix@etu.unilim.fr
